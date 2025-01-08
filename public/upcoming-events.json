@@ -1,0 +1,66 @@
+[
+    {
+      "event_name": "Amazon Conservation Workshop",
+      "date": "2024-12-05",
+      "location": "Manaus, Brazil",
+      "description": "Join our expert guides for a comprehensive workshop on Amazon rainforest conservation. Learn about sustainable practices and explore the stunning jungle ecosystem.",
+      "max_participants": 25
+    },
+    {
+      "event_name": "Reef Clean-Up Dive",
+      "date": "2024-11-20",
+      "location": "Cairns, Australia",
+      "description": "Participate in a unique diving event focused on cleaning the coral reefs. Help preserve marine life and enjoy guided dives in the Great Barrier Reef.",
+      "max_participants": 30
+    },
+    {
+      "event_name": "Himalayan Eco Trekking Challenge",
+      "date": "2024-09-10",
+      "location": "Nepal",
+      "description": "Embark on an eco-friendly trekking challenge in the Himalayas. Focus on minimizing waste and supporting local communities along the trek.",
+      "max_participants": 20
+    },
+    {
+      "event_name": "Rainforest Canopy Awareness Tour",
+      "date": "2024-08-18",
+      "location": "Monteverde, Costa Rica",
+      "description": "Explore the rainforest canopy while learning about its ecosystem. Participate in ziplining activities and conservation talks by experts.",
+      "max_participants": 15
+    },
+    {
+      "event_name": "Galápagos Eco-Friendly Boat Tour",
+      "date": "2024-07-12",
+      "location": "Galápagos Islands, Ecuador",
+      "description": "Experience the unique wildlife of the Galápagos Islands while following eco-friendly tourism practices. Learn about conservation efforts on this guided boat tour.",
+      "max_participants": 12
+    },
+    {
+      "event_name": "Sustainable Safari Experience",
+      "date": "2024-10-05",
+      "location": "Masai Mara, Kenya",
+      "description": "Join a guided safari focused on sustainable tourism. Learn about the conservation of African wildlife and visit eco-friendly lodges.",
+      "max_participants": 10
+    },
+    {
+      "event_name": "New Zealand Sustainability Hike",
+      "date": "2024-06-14",
+      "location": "Fiordland National Park, New Zealand",
+      "description": "A guided hiking event focused on New Zealand's natural beauty and sustainability efforts. Learn about the local flora and fauna while minimizing your environmental footprint.",
+      "max_participants": 20
+    },
+    {
+      "event_name": "Patagonia Climate Awareness Trek",
+      "date": "2024-05-28",
+      "location": "Patagonia, Argentina",
+      "description": "Join a trek to the stunning glaciers of Patagonia while learning about the impact of climate change. Participate in discussions and conservation activities.",
+      "max_participants": 15
+    },
+    {
+      "event_name": "Eco-Friendly Northern Lights Camp",
+      "date": "2024-02-20",
+      "location": "Reykjavik, Iceland",
+      "description": "Camp under the northern lights in an eco-friendly setup. Learn about sustainable tourism practices and enjoy the natural beauty of Iceland's night skies.",
+      "max_participants": 10
+    }
+  ]
+  

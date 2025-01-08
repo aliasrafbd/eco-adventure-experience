@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.active {
+    background-color: rgb(166, 232, 232);
+    border-radius:10px;
+}
+
+html, body {
+    overflow-x: hidden; /* Prevent horizontal scroll issues */
+  }
+
+.bg-transparent {
+    background-color: rgba(166, 232, 232,0.9);
+}
